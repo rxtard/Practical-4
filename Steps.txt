@@ -1,4 +1,15 @@
-Step 1: Download the latest pre-release version of WoR tool https://www.worproject.ml/downloads and extract the files.
+Practical 4 
+Aim: How to Install Windows 10 on the Raspberry Pi 4.
+Hardware:
+•	Raspberry Pi 4 (4GB or 8GB recommended, 2GB is possible but very slow).
+•	Storage device:
+	Option 1: MicroSD card (at least 32GB, Class 10)
+	Option 2 (better): USB 3.0 SSD (faster and more reliable).
+•	HDMI monitor, keyboard, mouse, power supply.
+•	Optional: USB Ethernet adapter
+
+Steps:
+Step 1: Download the latest pre-release version of WoR tool https://www.worproject.ml/downloads and extract the files. (https://www.worproject.com/downloads, if .ml doesn't work and download 'Windows on Raspberry Imager')
 
 Step 2: Prepare Windows 10 ARM64 ISO
 1.	Go to UUPDump.net.
